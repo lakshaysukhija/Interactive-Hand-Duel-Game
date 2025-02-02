@@ -6,5 +6,11 @@ The Interactive Hand Duel Game is a digital version of the classic Stone, Paper,
 🛠 Features:
 🖐️ Multiple Hand Gestures – Stone, Paper, and Scissors.
 🎨 Interactive UI – Smooth animations and dynamic responses.
-⚡ Fast-Paced Gameplay – Requires quick reflexes and strategy.
+⚡ Fast-paced gameplay – Requires quick reflexes and strategy.
 💾 Score Tracking – Keeps track of player wins and losses.
+
+🚀 Technologies Used:
+
+Programming Language: JavaScript 
+Frontend: HTML, CSS, JavaScript 
+Flexbox & Grid – For responsive design.
